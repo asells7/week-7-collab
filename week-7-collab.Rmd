@@ -1,0 +1,12 @@
+---
+title: "Collaboration is fun"
+author: "Alison Sells"
+date: "11/17/2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+Hey its week 7... woot! I'm tired
