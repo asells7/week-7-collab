@@ -10,3 +10,5 @@ knitr::opts_chunk$set(echo = TRUE)
 ```
 
 Hey its week 7... woot! I'm tired
+
+Hey Alison! I'm right there with you, looking forward to Thanksgiving :-)
